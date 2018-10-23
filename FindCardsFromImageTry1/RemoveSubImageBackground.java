@@ -1,15 +1,10 @@
-package FindCardsFromImage;
+package FindCardsFromImageTry1;
 
-import marvin.MarvinPluginCollection;
 import marvin.color.MarvinColorModelConverter;
 import marvin.image.MarvinImage;
 import marvin.io.MarvinImageIO;
 
-import javax.swing.text.DateFormatter;
-
 import java.util.Date;
-
-import static marvin.MarvinPluginCollection.*;
 
 public class RemoveSubImageBackground {
 

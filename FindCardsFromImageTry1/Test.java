@@ -1,4 +1,4 @@
-package FindCardsFromImage;
+package FindCardsFromImageTry1;
 
 import marvin.image.MarvinImage;
 import marvin.image.MarvinSegment;

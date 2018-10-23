@@ -1,4 +1,4 @@
-package FindCardsFromImage;
+package FindCardsFromImageTry1;
 
 import static marvin.MarvinPluginCollection.thresholding;
 import static marvin.MarvinPluginCollection.thresholdingNeighborhood;

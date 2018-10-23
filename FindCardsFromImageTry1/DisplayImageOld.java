@@ -1,4 +1,4 @@
-//package FindCardsFromImage;
+//package FindCardsFromImageTry1;
 //
 //import marvin.gui.MarvinImagePanel;
 //import marvin.image.MarvinImage;
